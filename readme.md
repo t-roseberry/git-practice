@@ -14,3 +14,4 @@ A practice repository for learning Git and GitHub.
 - `git commit -m "message"` — create a checkpoint
 - `git push` — send commits to GitHub
 Remote change to simulate teammate work
+Teammate change
