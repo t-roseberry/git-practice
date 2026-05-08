@@ -3,6 +3,8 @@
 I'm a CS teacher learning Git from scratch before teaching it 
 in the fall. This repo is my practice space.
 
+REMOTE CHANGE to simulate teammate work
+
 ## Why I'm doing this
 I'm teaching Software Studio in fall 2026 — a capstone course 
 on systems-level software engineering. Git is foundational to 
