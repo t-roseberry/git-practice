@@ -13,7 +13,4 @@ A practice repository for learning Git and GitHub.
 - `git add` — stage files
 - `git commit -m "message"` — create a checkpoint
 - `git push` — send commits to GitHub
-Remote change to simulate teammate work
-
-My local change
-Teammate change
+Remote edit for practice.
